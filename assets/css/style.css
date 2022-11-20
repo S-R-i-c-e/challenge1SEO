@@ -21,7 +21,7 @@ header h1 {
 }
 
 header h1 .seo {
-    color: #d9dcd6;
+
 }
 
 header div {
@@ -181,6 +181,9 @@ p {
     font-size: 36px;
 }
 
+#alt-hdr-txt {
+    color: #d9dcd6;
+}
 #main-image {
     margin-bottom: 25px;
 }
